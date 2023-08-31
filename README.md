@@ -38,4 +38,4 @@ Have questions, suggestions, or ideas? Reach out to us! Join our vibrant Python 
 
 So, what are you waiting for? Explore the world of Python through our captivating cheatsheets and level up your coding game today! 🚀🐍
 
-[![Made with ❤️ by Pythonistas](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Pythonistas-red)](https://github.com/kunalarya873)
+[![Made with ❤️ by Pythonistas](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-kunalarya873-red)](https://github.com/kunalarya873)
